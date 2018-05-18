@@ -1,0 +1,8 @@
+{
+  "name": "Mocking",
+  "short_name": "Mocking",
+  "start_url": "./index.html",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}

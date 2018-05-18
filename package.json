@@ -1,0 +1,53 @@
+{
+  "name": "my-mocking-app",
+  "version": "0.4.0",
+  "private": true,
+  "dependencies": {
+    "@types/graphql": "^0.13.0",
+    "@types/prop-types": "^15.5.2",
+    "@types/react-router": "^4.0.23",
+    "@types/react-router-dom": "^4.2.6",
+    "@types/react-test-renderer": "^16.0.1",
+    "@types/ws": "^4.0.2",
+    "apollo-cache-inmemory": "^1.2.1",
+    "apollo-client": "^2.3.1",
+    "apollo-link": "^1.2.2",
+    "apollo-link-context": "^1.0.8",
+    "apollo-link-error": "^1.0.9",
+    "apollo-link-http": "^1.5.4",
+    "apollo-link-state": "^0.4.1",
+    "apollo-link-ws": "^1.0.8",
+    "bugsnag-js": "^4.6.2",
+    "bugsnag-react": "^1.1.1",
+    "graphql": "0.13.0",
+    "graphql-tag": "^2.9.2",
+    "react": "16.3.2",
+    "react-apollo": "^2.1.4",
+    "react-dom": "16.3.2",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts-ts": "^2.16.0",
+    "styled-components": "^3.2.5",
+    "subscriptions-transport-ws": "^0.9.7"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
+  },
+  "devDependencies": {
+    "@types/jest": "^22.2.2",
+    "@types/node": "^9.6.4",
+    "@types/react": "^16.3.8",
+    "@types/react-dom": "^16.0.5",
+    "babel-core": "^6.26.3",
+    "babel-runtime": "^6.26.0",
+    "graphql-import": "^0.5.2",
+    "graphql-mock": "^1.0.2",
+    "react-test-renderer": "^16.3.2",
+    "typescript": "^2.8.3"
+  }
+}

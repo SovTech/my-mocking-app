@@ -1,0 +1,82 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Leaderboard renders errors when API fails 1`] = `
+<div
+  className="sc-cSHVUG dTqyNa"
+>
+  <div
+    className="sc-kAzzGY jBsOLT"
+  >
+    <h2
+      className="sc-bxivhb fvRKrT"
+    >
+      Error 😭
+    </h2>
+  </div>
+  <div
+    className="sc-chPdSV esFuas"
+  >
+    v
+    x.x.x
+  </div>
+</div>
+`;
+
+exports[`Leaderboard renders loading state 1`] = `
+<div
+  className="sc-cSHVUG dTqyNa"
+>
+  <div
+    className="sc-kAzzGY jBsOLT"
+  >
+    <h2
+      className="sc-bxivhb fvRKrT"
+    >
+      Loading...
+    </h2>
+  </div>
+  <div
+    className="sc-chPdSV esFuas"
+  >
+    v
+    x.x.x
+  </div>
+</div>
+`;
+
+exports[`Leaderboard renders the leaderboard 1`] = `
+<div
+  className="sc-cSHVUG dTqyNa"
+>
+  <div
+    className="sc-kAzzGY jBsOLT"
+  >
+    <div
+      className="sc-dxgOiQ bOTcL"
+    >
+      <span>
+        1.
+      </span>
+      <span>
+        JONATHAN🏆
+      </span>
+    </div>
+    <div
+      className="sc-dxgOiQ bOTcL"
+    >
+      <span>
+        2.
+      </span>
+      <span>
+        DEEPAK🥔👑
+      </span>
+    </div>
+  </div>
+  <div
+    className="sc-chPdSV esFuas"
+  >
+    v
+    x.x.x
+  </div>
+</div>
+`;
